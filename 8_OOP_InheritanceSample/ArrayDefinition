@@ -1,0 +1,7 @@
+ *** 특정 메소드안에 들어가는 배열의 선언은 inwonsu = new int[inwon]; 선언 합니다.
+ *** 공통으로 사용하는 배열의 선언은  static int inwon; 선언 합니다.
+ *** 일반적인 선언은 int[] inwon = new int[inwon]; 이렇습니다.
+ 
+ 참고 파일> OOP_InheritanceSample 패키지의 Sungjuk_InheritanceSample4_Inheritance2.java
+ 
+ 
